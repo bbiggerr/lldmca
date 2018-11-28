@@ -1,7 +1,7 @@
-@title[Trademarks]
-
-## @color[black](Trademarks)
-
+## @color[black](Copyrights)
+<br>
+&copy;
+<br>
 @fa[arrow-down text-black]
 
 +++
@@ -12,8 +12,8 @@ What are they?
 
 @snap[list-content-concise span-100]
 @ol
-- A Name, Logo, or Slogan
-- Established by the Lanham Act (1946)
+- Protection of tangible works
+- Established by the US Constitution
 - Avoid market confusion
 - Protect reputation
 @olend

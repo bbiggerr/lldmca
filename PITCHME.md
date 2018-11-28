@@ -18,15 +18,17 @@ Trademarks, Copyrights,<br>*and YOU*
 <br><br>
 
 ---
-@snap[north]
-What is "abuse"?
+@snap[north-west]
+### What is "Abuse"?
 @snapend
 
 @snap[west list-content-verbose span-100]
 @ul[list-bullets-circles]
 - Emails sent to abuse@linode.com
-- One Hero Supportian holds "abuse"
+- One Hero Supportian holds "Abuse"
 - Responds to reports of ToS violations
+- Opens ToS Violation tickets with customers
+- Holds the line against active threats like DoS attacks
 @ulend
 @snapend
 

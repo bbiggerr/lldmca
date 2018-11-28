@@ -1,12 +1,16 @@
 @title[Trademarks]
 
 ## @color[black](Trademarks)
-
+<br>
+&reg;
+<br>
+&trade;
+<br>
 @fa[arrow-down text-black]
 
 +++
 @snap[north]
-What are they?
+### What are they?
 @snapend
 
 @snap[list-content-concise span-100]
@@ -21,7 +25,7 @@ What are they?
 
 +++
 @snap[north text-black]
-Names
+### Names
 @snapend
 
 Nike
@@ -33,7 +37,7 @@ Linode
 
 +++
 @snap[north text-black]
-Logos
+### Logos
 @snapend
 
 <img src="template/img/nike.png" alt="drawing" width="200"/>
@@ -42,7 +46,7 @@ Logos
 
 +++
 @snap[north text-black]
-Slogans
+### Slogans
 @snapend
 
 Just do it
@@ -53,7 +57,7 @@ Infrastructure for innovation
 
 +++
 @snap[north text-black]
-USPTO
+### USPTO
 @snapend
 
 [Searchable Database](https://www.uspto.gov/trademarks-application-process/search-trademark-database)
@@ -62,7 +66,7 @@ USPTO
 
 +++
 @snap[north text-black]
-Abuse
+### Abuse
 @snapend
 
 1. Verify
@@ -72,7 +76,7 @@ Abuse
 
 +++
 @snap[north text-black]
-Special Cases
+### Special Cases
 @snapend
 
 ###Domain squatting
