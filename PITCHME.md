@@ -36,8 +36,4 @@ Trademarks, Copyrights,<br>*and YOU*
 
 ---?include=template/md/copyrights/PITCHME.md
 
----?include=template/md/examples/PITCHME.md
-
 ---?include=template/md/support/PITCHME.md
-
----?include=template/md/wrap-up/PITCHME.md

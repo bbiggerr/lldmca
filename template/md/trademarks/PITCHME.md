@@ -2,9 +2,7 @@
 
 ## @color[black](Trademarks)
 <br>
-&reg;
-<br>
-&trade;
+##&reg;   &trade;
 <br>
 @fa[arrow-down text-black]
 
