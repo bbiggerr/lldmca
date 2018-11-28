@@ -2,9 +2,10 @@
 @snap[north text-white span-100]
 @size[1.5em](TRADEMARKS)
 
-@size[3em](&reg;)
+
+@size[3em text-black](&reg;)
 <br>
-@size[3em](&trade;)
+@size[3em text-black](&trade;)
 <br><br>
 @fa[arrow-down text-black]
 
