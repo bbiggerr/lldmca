@@ -22,13 +22,6 @@ theme : simple
 theme-override : template/css/PITCHME.css
 
 #
-# Logo Setting
-# https://gitpitch.com/docs/settings/logo
-#
-logo : template/linode-logo.svg
-logo-position : top-left
-
-#
 # Title Setting
 # Doc: https://gitpitch.com/docs/settings/title
 #
