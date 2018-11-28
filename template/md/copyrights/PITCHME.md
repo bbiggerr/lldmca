@@ -1,8 +1,8 @@
-?image=template/img/bg/orange.jpg&position=top&size=100% 20%
+---?image=template/img/bg/orange.jpg&position=top&size=100% 20%
 @snap[north text-white span-100]
-@size[1.5em](Copyrights)
+@size[1.5em](COPYRIGHTS)
 @snapend
-<br>
+
 @size[3em](&copy;)
 <br><br>
 @fa[arrow-down text-black]

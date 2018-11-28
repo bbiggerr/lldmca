@@ -1,7 +1,7 @@
-@title[Trademarks]
+---?image=template/img/bg/green.jpg&position=top&size=100% 20%
+@snap[north text-white span-100]
+@size[1.5em](TRADEMARKS)
 
-## @color[black](TRADEMARKS)
-<br>
 @size[3em](&reg;)
 <br>
 @size[3em](&trade;)
@@ -59,7 +59,7 @@ Infrastructure for innovation
 @snapend
 
 [Searchable Database](https://www.uspto.gov/trademarks-application-process/search-trademark-database)
-<br><br>
+<br>
 <img src="template/img/tmsearch.png" alt="drawing" width="500"/>
 
 +++?image=template/img/bg/orange.jpg&position=top&size=100% 20%

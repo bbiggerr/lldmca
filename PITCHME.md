@@ -17,10 +17,9 @@ Trademarks, Copyrights,<br>*and YOU*
 1. How do they affect us?
 <br><br>
 
----
-@snap[north-west]
-### What is "Abuse"?
-@snapend
+---?image=template/img/bg/orange.jpg&position=top&size=100% 20%
+@snap[north text-white span-100]
+@size[1.5em](What is "Abuse"?)
 
 @snap[west list-content-verbose span-100]
 @ul[list-bullets-circles]
