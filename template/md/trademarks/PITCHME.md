@@ -76,7 +76,7 @@ Infrastructure for innovation
 @olend
 @snapend
 
-+++?image=template/img/bg/orange.jpg&position=top&size=100% 20%
++++?image=template/img/bg/green.jpg&position=top&size=100% 20%
 @snap[north text-white span-100]
 @size[1.5em](Special Cases)
 @snapend

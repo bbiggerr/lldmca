@@ -1,56 +1,29 @@
 ## @color[black](COPYRIGHTS)
 <br>
-&copy;
-<br>
+@size[3em](&copy;)
+<br><br>
 @fa[arrow-down text-black]
 
-+++
-
-@snap[north-west]
-What are they?
++++?image=template/img/bg/orange.jpg&position=top&size=100% 20%
+@snap[north text-white span-100]
+@size[1.5em](What are they?)
 @snapend
 
 @snap[list-content-concise span-100]
 @ol
-- Protection of "tangible works"
-- Established by Section 8 the US Constitution / Copyright Act of 1976
-- Applies to
-
+- Protection for "tangible works"
+- Established by Section 8 the US Constitution
+- Enabled by the Copyright Act of 1976, DMCA (1998)
+- Applies automatically to writings, music, and software (but not recipes)
+- Gives you the ability to license your work
 @olend
-<br><br>
 @snapend
 
-+++
-
-@snap[north text-black]
-@size[2em](Tangible Works)
++++?image=template/img/bg/orange.jpg&position=top&size=100% 20%
+@snap[north text-white span-100]
+@size[1.5em](We use them all the time!)
 @snapend
 
-- Nike
-- McDonald's
-- Linode
-
-
-+++
-
-@snap[north-west text-black]
-@size[2em](2. Logos)
-@snapend
-
-![NIKE](template/img/nike.png)
+[The Original Stackscript](https://www.linode.com/stackscripts/view/1)
 <br>
-![MCDONALDS](template/img/mcdonalds.png)
-<br>
-![LINODE](template/img/linode.png)
-
-+++
-
-@snap[north-west text-black]
-@size[2em](3. Slogans)
-@snapend
-
-Just do it.
-<br><br>
-I'm lovin' it.
-<br><br>
-Infrastructure for innovation.
+<img src="template/img/stackscript.png" alt="drawing" width="600"/>
