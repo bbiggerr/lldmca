@@ -8,12 +8,12 @@
 <br><br>
 @fa[arrow-down text-black]
 
-+++
-@snap[north]
-### What are they?
++++?image=template/img/bg/green.jpg&position=top&size=100% 20%
+@snap[north text-white span-100]
+@size[1.5em](What are they?)
 @snapend
 
-@snap[list-content-concise span-100]
+@snap[south list-content-concise span-100]
 @ol
 - A Name, Logo, or Slogan
 - Established by the Lanham Act (1946)
@@ -79,5 +79,5 @@ Infrastructure for innovation
 ### Special Cases
 @snapend
 
-###Domain squatting
-###Dilution
+### Domain squatting
+### Dilution
