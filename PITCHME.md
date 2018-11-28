@@ -17,6 +17,13 @@ Trademarks, Copyrights,<br>*and YOU*
 1. How do they affect us?
 <br><br>
 
+---?image=template/img/bg/green.jpg&position=top&size=100% 20%
+@snap[north text-white span-100]
+@size[1.5em](Who is this guy anyway?)
+@snapend
+
+<img src="template/img/hutz.jpg" alt="drawing" width="400"/>
+
 ---?image=template/img/bg/orange.jpg&position=top&size=100% 20%
 @snap[north text-white span-100]
 @size[1.5em](What is "Abuse"?)
@@ -31,13 +38,6 @@ Trademarks, Copyrights,<br>*and YOU*
 - Holds the line against active threats like DoS attacks
 @ulend
 @snapend
-
----?image=template/img/bg/orange.jpg&position=top&size=100% 20%
-@snap[north text-white span-100]
-@size[1.5em](Who is this guy anyway?)
-@snapend
-
-<img src="template/img/hutz.jpg" alt="drawing" width="400"/>
 
 ---?include=template/md/trademarks/PITCHME.md
 
