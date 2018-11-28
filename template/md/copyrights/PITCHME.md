@@ -19,11 +19,12 @@
 @olend
 @snapend
 
-+++?image=template/img/bg/orange.jpg&position=top&size=100% 20%
++++?image=template/img/bg/green.jpg&position=top&size=100% 20%
 @snap[north text-white span-100]
 @size[1.5em](We use them all the time!)
 @snapend
 
-[The Original Stackscript](https://www.linode.com/stackscripts/view/1)
+@snap[south span-100]
+[The Original StackScript](https://www.linode.com/stackscripts/view/1)
 <br>
 <img src="template/img/stackscript.png" alt="drawing" width="600"/>
