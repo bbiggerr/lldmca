@@ -3,7 +3,7 @@
 @size[1.5em](TRADEMARKS)
 @snapend
 
-@size[3em](&reg;)
+@size[3em](&reg; / &trade;)
 <br>
 @size[3em](&trade;)
 <br><br>
