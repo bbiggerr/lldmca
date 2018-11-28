@@ -34,11 +34,12 @@ What are they?
 @size[2em](Logos)
 @snapend
 
-<img src="template/img/nike.jpg" alt="drawing" width="400"/>
+<img src="template/img/nike.jpg" alt="drawing" width="200"/>
 <br>
-@size[30%](template/img/mcdonalds.png)
+<img src="template/img/mcdonalds.png" alt="drawing" width="200"/>
 <br>
-![LINODE](template/img/linode.png)
+<img src="template/img/linode.png" alt="drawing" width="200"/>
+<br>
 
 +++
 @snap[north text-black]
@@ -59,4 +60,4 @@ United States Patent & Trademark Office
 @snapend
 
 [Searchable Database](https://www.uspto.gov/trademarks-application-process/search-trademark-database)
-![TMSEARCH](template/img/tmsearch.png)
+<img src="template/img/tmsearch.png" alt="drawing" width="500"/>
