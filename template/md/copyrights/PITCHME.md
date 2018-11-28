@@ -29,7 +29,7 @@
 
 @snap[list-content-verbose span-100 text-black]
 @ul[list-bullets-circles]
-- Software that is freely used, modified, and shared
+- [Software that is freely used, modified, and shared](https://en.wikipedia.org/wiki/Free_software_movement)
 - [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.en.html)
 - [Open Source Initiative](https://opensource.org/licenses)
 - [Free Software Foundation](https://www.fsf.org/licensing)

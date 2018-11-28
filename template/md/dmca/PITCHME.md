@@ -61,7 +61,8 @@
 - Verify validity of complaint
 - Don't dismiss complaints! Reach out to T&S
 - Pass full report on to the customer
-- Follow timeframes - set stales and netfilter after 96 hours
+- Follow timeframes - set stales
+- Netfilter after 96 hours if content still up
 - Keep the reporter updated
 @olend
 @snapend
@@ -73,10 +74,11 @@
 
 @snap[list-content-concise span-100]
 @ol
-- Verify validity of complaint
-- Don't dismiss complaints! Reach out to T&S
-- Pass full report on to the customer
-- Follow timeframes - set stales and netfilter after 96 hours
-- Keep the reporter updated
+- If you like conditions and timeframes, you'll love this slide!
+- ONLY forward if access to content is removed
+- Verify validity of counter notice
+- Pass on to the initial reporter
+- After 10 days, restore access if no legal files
+- MUST restore access before 14 days since counter notices
 @olend
 @snapend
