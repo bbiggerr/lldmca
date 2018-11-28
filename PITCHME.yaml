@@ -25,20 +25,20 @@ theme-override : template/css/PITCHME.css
 # Logo Setting
 # https://gitpitch.com/docs/settings/logo
 #
-logo : template/img/logo.png
+logo : template/linode-logo.svg
 logo-position : top-left
 
 #
 # Title Setting
 # Doc: https://gitpitch.com/docs/settings/title
 #
-title : "GitPitch Quickstart Template"
+title : "Trademarks, Copyrights, and YOU"
 
 #
 # Footnote Setting
 # Doc: https://gitpitch.com/docs/settings/footnote
 #
-footnote : "GitPitch - The Fastest Way From Idea To Presentation"
+footnote : "&copy; 2018 Linode, LLC"
 
 #
 # Highlight (Code) Setting

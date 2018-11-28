@@ -2,11 +2,11 @@
 @title[Introduction]
 
 @snap[west headline text-white span-70]
-GitPitch<br>*The Template*
+Trademarks, Copyrights,<br>*and YOU*
 @snapend
 
 @snap[south-west byline  text-white]
-The Fastest Way From Idea To Presentation.
+&copy; 2018 Linode, LLC
 @snapend
 
 ---
