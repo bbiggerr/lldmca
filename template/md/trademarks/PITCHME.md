@@ -64,15 +64,13 @@ Infrastructure for innovation
 - [UNIX &reg;](http://www.unix.org/trademark.html)
 - [OSI Guidelines](https://opensource.org/trademark-guidelines)
 - [Google Casebook](https://opensource.google.com/docs/casebook/trademarks/)
+- <img src="template/img/github.png" alt="drawing" width="100"/>
+<img src="template/img/drupal.png" alt="drawing" width="50"/>
+<img src="template/img/debian.png" alt="drawing" width="50"/>
+<img src="template/img/arch.png" alt="drawing" width="200"/>
 @ulend
 @snapend
 
-@snap[south span-100]
-<img src="template/img/github.png" alt="drawing" width="50"/>
-<img src="template/img/drupal.png" alt="drawing" width="50"/>
-<img src="template/img/debian.png" alt="drawing" width="50"/>
-<img src="template/img/arch.png" alt="drawing" width="50"/>
-@snapend
 +++
 @snap[north text-black]
 ### USPTO
