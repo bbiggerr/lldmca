@@ -50,3 +50,33 @@
 - Check !cflare Text Expander
 @olend
 @snapend
+
++++?image=template/img/bg/green.jpg&position=top&size=100% 20%
+@snap[north text-white span-100]
+@size[1.5em](Abuse)
+@snapend
+
+@snap[list-content-concise span-100]
+@ol
+- Verify validity of complaint
+- Don't dismiss complaints! Reach out to T&S
+- Pass full report on to the customer
+- Follow timeframes - set stales and netfilter after 96 hours
+- Keep the reporter updated
+@olend
+@snapend
+
++++?image=template/img/bg/green.jpg&position=top&size=100% 20%
+@snap[north text-white span-100]
+@size[1.5em](Counter Notices)
+@snapend
+
+@snap[list-content-concise span-100]
+@ol
+- Verify validity of complaint
+- Don't dismiss complaints! Reach out to T&S
+- Pass full report on to the customer
+- Follow timeframes - set stales and netfilter after 96 hours
+- Keep the reporter updated
+@olend
+@snapend

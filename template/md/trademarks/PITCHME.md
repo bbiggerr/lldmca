@@ -54,7 +54,7 @@ Infrastructure for innovation
 
 +++?image=template/img/bg/orange.jpg&position=top&size=100% 20%
 @snap[north text-white span-100]
-@size[1.5em](Open Source)
+@size[1.5em](FOSS)
 @snapend
 
 @snap[span-100]
@@ -89,9 +89,10 @@ Infrastructure for innovation
 @snap[list-content-concise span-100]
 @ol
 - Verify
-- Pass on to the customer
+- Pass full report on to the customer
 - Follow timeframes - set stales!
-- If in doubt, escalate to Trust & Safety
+- Keep the reporter updated!
+- When in doubt, reach out to Trust & Safety
 @olend
 @snapend
 
