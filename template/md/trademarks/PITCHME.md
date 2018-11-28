@@ -35,11 +35,8 @@ What are they?
 @snapend
 
 <img src="template/img/nike.png" alt="drawing" width="200"/>
-<br>
 <img src="template/img/mcdonalds.png" alt="drawing" width="200"/>
-<br>
 <img src="template/img/linode.png" alt="drawing" width="200"/>
-<br>
 
 +++
 @snap[north text-black]
