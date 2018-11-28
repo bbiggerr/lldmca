@@ -68,11 +68,10 @@ Infrastructure for innovation
 @snapend
 
 @snap[south span-100]
-<img src="template/img/ubuntu.png" alt="drawing" width="200"/>
-<img src="template/img/github.png" alt="drawing" width="200"/>
-<img src="template/img/drupal.png" alt="drawing" width="200"/>
-<img src="template/img/debian.png" alt="drawing" width="200"/>
-<img src="template/img/arch.png" alt="drawing" width="200"/>
+<img src="template/img/github.png" alt="drawing" width="50"/>
+<img src="template/img/drupal.png" alt="drawing" width="50"/>
+<img src="template/img/debian.png" alt="drawing" width="50"/>
+<img src="template/img/arch.png" alt="drawing" width="50"/>
 @snapend
 +++
 @snap[north text-black]
