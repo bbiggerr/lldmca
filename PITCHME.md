@@ -1,4 +1,4 @@
----?color=linear-gradient(to right, #339933, #00cc99)
+---?color=linear-gradient(to right, #339966, #99ffcc)
 @title[Introduction]
 
 @snap[west headline text-white span-70]
@@ -12,14 +12,14 @@ Trademarks, Copyrights,<br>*and YOU*
 ---
 @title[Slide Markdown]
 
-### Each slide in this presentation is provided as a *template*.
+### What we'll be covering:
 
-<br><br>
+<br>
 
-1. Select only the slide templates that you need.
-1. Customize the template _markdown content_.
-1. Optionally, override template _styles_ and _settings_.
-1. Then present and publish with GitPitch @fa[smile-o]
+1. What are Trademarks?
+1. What are Copyrights?
+1. What is the DMCA?
+1. How does Support handle issues involving these?
 <br><br>
 
 
