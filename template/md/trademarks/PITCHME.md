@@ -103,4 +103,5 @@ Infrastructure for innovation
 @snapend
 
 ### Domain squatting
+### SEO keywords
 ### Dilution

@@ -19,3 +19,34 @@
 - IF you comply with the rules!
 @olend
 @snapend
+
++++?image=template/img/bg/green.jpg&position=top&size=100% 20%
+@snap[north text-white span-100]
+@size[1.5em](Safe Harbor Requirements)
+@snapend
+
+@snap[list-content-concise span-100]
+@ol
+- Register with US Copyright Office
+- Promptly respond to valid complaints
+- Notify customers of removal of access to materials
+- Forward counter notices and restore access within timeframe
+@olend
+@snapend
+
++++?image=template/img/bg/orange.jpg&position=top&size=100% 20%
+@snap[north text-white span-100]
+@size[1.5em](Valid DMCA Report Requirements)
+@snapend
+
+@snap[list-content-concise span-100]
+@ol
+- Signature of Owner or Representative of Copyright
+- Identification of the Infringed Copyright
+- Contact Info for Owner/Rep (email is fine)
+- "Good Faith Belief" that use isn't permitted (search for these exact words!)
+- Confirmation that the info in the notification is accurate (search!)
+- Reporter is the Owner/Rep under penalty of perjury (search!)
+- If deficient, check !cflare Text Expander for a nice list of requirements
+@olend
+@snapend
