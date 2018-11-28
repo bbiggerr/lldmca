@@ -72,7 +72,7 @@
 @size[1.5em](Counter Notices)
 @snapend
 
-@snap[list-content-concise span-100]
+@snap[south list-content-concise span-100]
 @ol
 - If you like conditions and timeframes, you'll love this slide!
 - ONLY forward if access to content is removed
