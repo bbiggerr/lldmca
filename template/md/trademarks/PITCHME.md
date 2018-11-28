@@ -3,9 +3,7 @@
 @size[1.5em](TRADEMARKS)
 @snapend
 
-@size[3em](&reg; / &trade;)
-<br>
-@size[3em](&trade;)
+@size[3em](&reg; | &trade;)
 <br><br>
 @fa[arrow-down text-black]
 
@@ -19,7 +17,7 @@
 - A Name, Logo, or Slogan
 - Established by the Lanham Act (1946)
 - Avoid market confusion
-- Protect reputation
+- Protect reputations
 @olend
 @snapend
 

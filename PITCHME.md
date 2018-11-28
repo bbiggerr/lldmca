@@ -22,7 +22,7 @@ Trademarks, Copyrights,<br>*and YOU*
 @size[1.5em](What is "Abuse"?)
 @snapend
 
-@snap[south list-content-verbose span-100 text-black]
+@snap[list-content-verbose span-100 text-black]
 @ul[list-bullets-circles]
 - Emails sent to abuse@linode.com
 - One Hero Supportian holds "Abuse"

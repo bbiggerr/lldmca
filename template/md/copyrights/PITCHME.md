@@ -17,7 +17,7 @@
 - Protection for "tangible works"
 - Established by Section 8 the US Constitution
 - Copyright Act of 1976 / DMCA (1998)
-- Applies automatically to writings, music, music, software, etc. (but not recipes)
+- Applies automatically to writings, music, movies, software, etc. (but not recipes)
 - Control how others use your work through licensing
 @olend
 @snapend
