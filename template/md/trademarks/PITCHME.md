@@ -34,7 +34,7 @@ What are they?
 @size[2em](Logos)
 @snapend
 
-<img src="template/img/nike.jpg" alt="drawing" width="200"/>
+<img src="template/img/nike.png" alt="drawing" width="200"/>
 <br>
 <img src="template/img/mcdonalds.png" alt="drawing" width="200"/>
 <br>
@@ -54,10 +54,9 @@ Infrastructure for innovation
 
 +++
 @snap[north text-black]
-United States Patent & Trademark Office
-<br>
-(USPTO)
+USPTO
 @snapend
 
 [Searchable Database](https://www.uspto.gov/trademarks-application-process/search-trademark-database)
+<br><br>
 <img src="template/img/tmsearch.png" alt="drawing" width="500"/>
