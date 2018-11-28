@@ -59,15 +59,16 @@ Infrastructure for innovation
 @size[1.5em](Open Source)
 @snapend
 
-@snap[list-content-verbose span-100 text-black]
+<img src="template/img/github.png" alt="drawing" width="60"/>
+<img src="template/img/drupal.png" alt="drawing" width="50"/>
+<img src="template/img/debian.png" alt="drawing" width="50"/>
+<img src="template/img/arch.png" alt="drawing" width="80"/>
+
+@snap[south list-content-verbose span-100 text-black]
 @ul[list-bullets-circles]
 - [UNIX &reg;](http://www.unix.org/trademark.html)
 - [OSI Guidelines](https://opensource.org/trademark-guidelines)
 - [Google Casebook](https://opensource.google.com/docs/casebook/trademarks/)
-- <img src="template/img/github.png" alt="drawing" width="100"/>
-<img src="template/img/drupal.png" alt="drawing" width="50"/>
-<img src="template/img/debian.png" alt="drawing" width="50"/>
-<img src="template/img/arch.png" alt="drawing" width="200"/>
 @ulend
 @snapend
 
