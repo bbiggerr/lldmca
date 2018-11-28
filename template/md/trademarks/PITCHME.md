@@ -1,11 +1,11 @@
 ---?image=template/img/bg/green.jpg&position=top&size=100% 20%
 @snap[north text-white span-100]
 @size[1.5em](TRADEMARKS)
+@snapend
 
-
-@size[3em text-black](&reg;)
+@size[3em](&reg;)
 <br>
-@size[3em text-black](&trade;)
+@size[3em](&trade;)
 <br><br>
 @fa[arrow-down text-black]
 
