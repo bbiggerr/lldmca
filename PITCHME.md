@@ -1,4 +1,4 @@
----?color=linear-gradient(to right, #c02425, #f0cb35)
+---?color=linear-gradient(to right, #339933, #00cc99)
 @title[Introduction]
 
 @snap[west headline text-white span-70]
