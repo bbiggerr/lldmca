@@ -5,6 +5,7 @@
 @fa[arrow-down text-black]
 
 +++
+
 @snap[north-west]
 What are they?
 @snapend
@@ -20,8 +21,9 @@ What are they?
 @snapend
 
 +++
-@snap[north text-black]
-@size[2em](Names)
+
+@snap[north-west text-black]
+@size[2em](1. Names)
 @snapend
 
 - Nike
@@ -30,33 +32,25 @@ What are they?
 
 
 +++
-@snap[north text-black]
-@size[2em](Logos)
+
+@snap[north-west text-black]
+@size[2em](2. Logos)
 @snapend
 
-![NIKE](template/img/nike.jpg)
+![NIKE](template/img/nike.png)
 <br>
 ![MCDONALDS](template/img/mcdonalds.png)
 <br>
 ![LINODE](template/img/linode.png)
 
 +++
-@snap[north text-black]
-@size[2em](Slogans)
+
+@snap[north-west text-black]
+@size[2em](3. Slogans)
 @snapend
 
-Just do it
+Just do it.
 <br><br>
-I'm lovin' it
+I'm lovin' it.
 <br><br>
-Infrastructure for innovation
-
-+++
-@snap[north text-black]
-United States Patent & Trademark Office
-<br>
-(USPTO)
-@snapend
-
-[Searchable Database](https://www.uspto.gov/trademarks-application-process/search-trademark-database)
-![TMSEARCH](template/img/tmsearch.png)
+Infrastructure for innovation.
