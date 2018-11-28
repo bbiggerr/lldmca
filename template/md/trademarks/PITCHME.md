@@ -5,7 +5,7 @@
 @fa[arrow-down text-black]
 
 +++
-@snap[north-west]
+@snap[north]
 What are they?
 @snapend
 
@@ -21,17 +21,19 @@ What are they?
 
 +++
 @snap[north text-black]
-@size[2em](Names)
+Names
 @snapend
 
-- Nike
-- McDonald's
-- Linode
+Nike
+<br><br>
+McDonald's
+<br><br>
+Linode
 
 
 +++
 @snap[north text-black]
-@size[2em](Logos)
+Logos
 @snapend
 
 <img src="template/img/nike.png" alt="drawing" width="200"/>
@@ -40,7 +42,7 @@ What are they?
 
 +++
 @snap[north text-black]
-@size[2em](Slogans)
+Slogans
 @snapend
 
 Just do it
@@ -57,3 +59,21 @@ USPTO
 [Searchable Database](https://www.uspto.gov/trademarks-application-process/search-trademark-database)
 <br><br>
 <img src="template/img/tmsearch.png" alt="drawing" width="500"/>
+
++++
+@snap[north text-black]
+Abuse
+@snapend
+
+1. Verify
+1. Pass on to the customer
+1. Follow timeframes - set stales!
+1. If in doubt, escalate to Trust & Safety
+
++++
+@snap[north text-black]
+Special Cases
+@snapend
+
+###Domain squatting
+###Dilution
