@@ -20,12 +20,11 @@
 - Avoid market confusion
 - Protect reputation
 @olend
-<br><br>
 @snapend
 
-+++
-@snap[north text-black]
-### Names
++++?image=template/img/bg/green.jpg&position=top&size=100% 20%
+@snap[north text-white span-100]
+@size[1.5em](Names)
 @snapend
 
 Nike
@@ -34,10 +33,9 @@ McDonald's
 <br><br>
 Linode
 
-
-+++
-@snap[north text-black]
-### Logos
++++?image=template/img/bg/orange.jpg&position=top&size=100% 20%
+@snap[north text-white span-100]
+@size[1.5em](Logos)
 @snapend
 
 <img src="template/img/nike.png" alt="drawing" width="200"/>
@@ -45,8 +43,9 @@ Linode
 <img src="template/img/linode.png" alt="drawing" width="200"/>
 
 +++
-@snap[north text-black]
-### Slogans
++++?image=template/img/bg/green.jpg&position=top&size=100% 20%
+@snap[north text-white span-100]
+@size[1.5em](Slogans)
 @snapend
 
 Just do it
@@ -64,19 +63,23 @@ Infrastructure for innovation
 <br><br>
 <img src="template/img/tmsearch.png" alt="drawing" width="500"/>
 
-+++
-@snap[north text-black]
-### Abuse
++++?image=template/img/bg/orange.jpg&position=top&size=100% 20%
+@snap[north text-white span-100]
+@size[1.5em](Abuse)
 @snapend
 
+snap[list-content-concise span-100]
+@ol
 1. Verify
 1. Pass on to the customer
 1. Follow timeframes - set stales!
 1. If in doubt, escalate to Trust & Safety
+@olend
+@snapend
 
-+++
-@snap[north text-black]
-### Special Cases
++++?image=template/img/bg/orange.jpg&position=top&size=100% 20%
+@snap[north text-white span-100]
+@size[1.5em](Special Cases)
 @snapend
 
 ### Domain squatting
