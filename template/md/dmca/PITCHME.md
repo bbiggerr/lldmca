@@ -79,6 +79,6 @@
 - Verify validity of counter notice
 - Pass on to the initial reporter
 - After 10 days, restore access if no legal files
-- MUST restore access before 14 days since counter notices
+- MUST restore access before 14 days since our receipt of the counter notice
 @olend
 @snapend
