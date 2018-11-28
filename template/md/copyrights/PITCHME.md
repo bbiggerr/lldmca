@@ -27,11 +27,11 @@
 @size[1.5em](Open Source)
 @snapend
 
-@snap[south list-content-verbose span-100 text-black]
+@snap[list-content-verbose span-100 text-black]
 @ul[list-bullets-circles]
 - Software that is freely used, modified, and shared
-- [Open Source Initiative](https://opensource.org/licenses)
 - [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.en.html)
+- [Open Source Initiative](https://opensource.org/licenses)
 - [Free Software Foundation](https://www.fsf.org/licensing)
 @ulend
 @snapend

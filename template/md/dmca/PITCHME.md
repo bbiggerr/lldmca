@@ -3,7 +3,7 @@
 @size[1.5em](DMCA)
 @snapend
 
-@size[2em](Digital Millenium Copyright Act - 1998)
+@size[1.5em](Digital Millenium Copyright Act - 1998)
 <br><br>
 @fa[arrow-down text-black]
 
@@ -41,12 +41,12 @@
 
 @snap[list-content-concise span-100]
 @ol
-- Signature of Owner or Representative of Copyright
-- Identification of the Infringed Copyright
-- Contact Info for Owner/Rep (email is fine)
-- "Good Faith Belief" that use isn't permitted (search for these exact words!)
-- Confirmation that the info in the notification is accurate (search!)
-- Reporter is the Owner/Rep under penalty of perjury (search!)
-- If deficient, check !cflare Text Expander for a nice list of requirements
+- Signature of Owner/Rep
+- Copyright Identified
+- Contact Info (email is fine)
+- "Good Faith Belief"
+- Confirmation of accuracy
+- Under penalty of perjury
+- Check !cflare Text Expander
 @olend
 @snapend
