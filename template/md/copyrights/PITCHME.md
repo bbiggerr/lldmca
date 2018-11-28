@@ -1,33 +1,48 @@
 ---?image=template/img/bg/orange.jpg&position=top&size=100% 20%
-@snap [north text-white span-100]
-@size [1.5em](COPYRIGHTS)
+@snap[north text-white span-100]
+@size[1.5em](COPYRIGHTS)
 @snapend
 
-@size [3em](&copy;)
+@size[3em](&copy;)
 <br><br>
 @fa[arrow-down text-black]
 
-+++?image=template/img/bg/orange.jpg&position=top&size=100% 20%
-@snap [north text-white span-100]
-@size [1.5em](What are they?)
++++?image=template/img/bg/green.jpg&position=top&size=100% 20%
+@snap[north text-white span-100]
+@size[1.5em](What are they?)
 @snapend
 
-@snap [list-content-concise span-100]
+@snap[list-content-concise span-100]
 @ol
 - Protection for "tangible works"
 - Established by Section 8 the US Constitution
 - Copyright Act of 1976 / DMCA (1998)
-- Applies automatically to writings, music, and software (but not recipes)
+- Applies automatically to writings, music, music, software, etc. (but not recipes)
 - Gives you the ability to license your work
 @olend
 @snapend
 
-+++?image=template/img/bg/green.jpg&position=top&size=100% 20%
++++?image=template/img/bg/orange.jpg&position=top&size=100% 20%
 @snap[north text-white span-100]
-@size [1.5em](We use them all the time!)
+@size[1.5em](Open Source)
 @snapend
 
-@snap [south span-100]
+@snap[south list-content-verbose span-100 text-black]
+@ul[list-bullets-circles]
+- [GNU General Public License]
+- One Hero Supportian holds "Abuse"
+- Responds to reports of ToS violations
+- Opens ToS Violation tickets with customers
+- Holds the line against active threats like DoS attacks
+@ulend
+@snapend
+
++++?image=template/img/bg/green.jpg&position=top&size=100% 20%
+@snap[north text-white span-100]
+@size[1.5em](We use them all the time!)
+@snapend
+
+@snap[south span-100]
 [The Original StackScript](https://www.linode.com/stackscripts/view/1)
 <br>
 <img src="template/img/stackscript.png" alt="drawing" width="500"/>

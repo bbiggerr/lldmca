@@ -54,6 +54,26 @@ I'm lovin' it
 <br><br>
 Infrastructure for innovation
 
++++?image=template/img/bg/orange.jpg&position=top&size=100% 20%
+@snap[north text-white span-100]
+@size[1.5em](Open Source)
+@snapend
+
+@snap[list-content-verbose span-100 text-black]
+@ul[list-bullets-circles]
+- [UNIX &reg;](http://www.unix.org/trademark.html)
+- [OSI Guidelines](https://opensource.org/trademark-guidelines)
+- [Google Casebook](https://opensource.google.com/docs/casebook/trademarks/)
+@ulend
+@snapend
+
+@snap[south span-100]
+<img src="template/img/ubuntu.png" alt="drawing" width="200"/>
+<img src="template/img/github.png" alt="drawing" width="200"/>
+<img src="template/img/drupal.png" alt="drawing" width="200"/>
+<img src="template/img/debian.png" alt="drawing" width="200"/>
+<img src="template/img/arch.png" alt="drawing" width="200"/>
+@snapend
 +++
 @snap[north text-black]
 ### USPTO
