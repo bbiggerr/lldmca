@@ -1,18 +1,18 @@
 ---?image=template/img/bg/orange.jpg&position=top&size=100% 20%
-@snap[north text-white]
-@size[1.5em](COPYRIGHTS)
+@snap [north text-white span-100]
+@size [1.5em](COPYRIGHTS)
 @snapend
 
-@size[3em](&copy;)
+@size [3em](&copy;)
 <br><br>
 @fa[arrow-down text-black]
 
 +++?image=template/img/bg/orange.jpg&position=top&size=100% 20%
-@snap[north text-white]
-@size[1.5em](What are they?)
+@snap [north text-white span-100]
+@size [1.5em](What are they?)
 @snapend
 
-@snap[list-content-concise]
+@snap [list-content-concise span-100]
 @ol
 - Protection for "tangible works"
 - Established by Section 8 the US Constitution
@@ -23,11 +23,12 @@
 @snapend
 
 +++?image=template/img/bg/green.jpg&position=top&size=100% 20%
-@snap[north text-white]
-@size[1.5em](We use them all the time!)
+@snap[north text-white span-100]
+@size [1.5em](We use them all the time!)
 @snapend
 
-@snap[south]
+@snap [south span-100]
 [The Original StackScript](https://www.linode.com/stackscripts/view/1)
 <br>
 <img src="template/img/stackscript.png" alt="drawing" width="500"/>
+@snapend
