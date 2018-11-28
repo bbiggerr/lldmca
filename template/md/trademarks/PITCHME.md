@@ -8,12 +8,12 @@
 <br><br>
 @fa[arrow-down text-black]
 
-+++?image=template/img/bg/green.jpg&position=top&size=100% 20%
++++?image=template/img/bg/orange.jpg&position=top&size=100% 20%
 @snap[north text-white span-100]
 @size[1.5em](What are they?)
 @snapend
 
-@snap[south list-content-concise span-100]
+@snap[list-content-concise span-100]
 @ol
 - A Name, Logo, or Slogan
 - Established by the Lanham Act (1946)
