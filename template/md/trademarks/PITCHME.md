@@ -34,7 +34,7 @@ What are they?
 @size[2em](Logos)
 @snapend
 
-@width[30%]![NIKE](template/img/nike.jpg)
+@size[30%]![NIKE](template/img/nike.jpg)
 <br>
 ![MCDONALDS](template/img/mcdonalds.png)
 <br>
