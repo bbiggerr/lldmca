@@ -20,8 +20,9 @@ Trademarks, Copyrights,<br>*and YOU*
 ---?image=template/img/bg/orange.jpg&position=top&size=100% 20%
 @snap[north text-white span-100]
 @size[1.5em](What is "Abuse"?)
+@snapend
 
-@snap[list-content-concise span-100]
+@snap[list-content-verbose span-100 text-black]
 @ul[list-bullets-circles]
 - Emails sent to abuse@linode.com
 - One Hero Supportian holds "Abuse"
