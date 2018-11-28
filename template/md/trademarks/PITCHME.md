@@ -22,18 +22,18 @@ What are they?
 
 +++
 
-@snap[northwest text-black]
+@snap[north-west text-black]
 @size[2em](1. Names)
 @snapend
 
 - Nike
 - McDonald's
 - Linode
-@snapend
+
 
 +++
 
-@snap[northwest text-black]
+@snap[north-west text-black]
 @size[2em](2. Logos)
 @snapend
 
@@ -45,7 +45,7 @@ What are they?
 
 +++
 
-@snap[northwest text-black]
+@snap[north-west text-black]
 @size[2em](3. Slogans)
 @snapend
 
