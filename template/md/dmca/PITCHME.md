@@ -1,56 +1,21 @@
-@title[Trademarks]
+---?image=template/img/bg/green.jpg&position=top&size=100% 20%
+@snap[north text-white span-100]
+@size[1.5em](DMCA)
+@snapend
 
-## @color[black](Trademarks)
-
+@size[2em](Digital Millenium Copyright Act - 1998)
+<br><br>
 @fa[arrow-down text-black]
 
-+++
-
-@snap[north-west]
-What are they?
++++?image=template/img/bg/orange.jpg&position=top&size=100% 20%
+@snap[north text-white span-100]
+@size[1.5em](What is it?)
 @snapend
 
 @snap[list-content-concise span-100]
 @ol
-- A Name, Logo, or Slogan
-- Established by the Lanham Act (1946)
-- Avoid market confusion
-- Protect reputation
+- Protects internet providers from secondary copyright infringement
+- Blanket "Safe Harbor" from ALL secondary infringement liability
+- IF you comply with the rules!
 @olend
-<br><br>
 @snapend
-
-+++
-
-@snap[north-west text-black]
-@size[2em](1. Names)
-@snapend
-
-- Nike
-- McDonald's
-- Linode
-
-
-+++
-
-@snap[north-west text-black]
-@size[2em](2. Logos)
-@snapend
-
-![NIKE](template/img/nike.png)
-<br>
-![MCDONALDS](template/img/mcdonalds.png)
-<br>
-![LINODE](template/img/linode.png)
-
-+++
-
-@snap[north-west text-black]
-@size[2em](3. Slogans)
-@snapend
-
-Just do it.
-<br><br>
-I'm lovin' it.
-<br><br>
-Infrastructure for innovation.

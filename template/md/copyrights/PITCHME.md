@@ -18,7 +18,7 @@
 - Established by Section 8 the US Constitution
 - Copyright Act of 1976 / DMCA (1998)
 - Applies automatically to writings, music, music, software, etc. (but not recipes)
-- Gives you the ability to license your work
+- Control how others use your work through licensing
 @olend
 @snapend
 
@@ -29,11 +29,10 @@
 
 @snap[south list-content-verbose span-100 text-black]
 @ul[list-bullets-circles]
-- [GNU General Public License]
-- One Hero Supportian holds "Abuse"
-- Responds to reports of ToS violations
-- Opens ToS Violation tickets with customers
-- Holds the line against active threats like DoS attacks
+- Software that is freely used, modified, and shared
+- [Open Source Initiative](https://opensource.org/licenses)
+- [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.en.html)
+- [Free Software Foundation](https://www.fsf.org/licensing)
 @ulend
 @snapend
 

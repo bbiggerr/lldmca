@@ -72,9 +72,9 @@ Infrastructure for innovation
 @ulend
 @snapend
 
-+++
-@snap[north text-black]
-### USPTO
++++?image=template/img/bg/green.jpg&position=top&size=100% 20%
+@snap[north text-white span-100]
+@size[1.5em](USPTO)
 @snapend
 
 [Searchable Database](https://www.uspto.gov/trademarks-application-process/search-trademark-database)
