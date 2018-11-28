@@ -1,4 +1,7 @@
-## @color[black](COPYRIGHTS)
+?image=template/img/bg/orange.jpg&position=top&size=100% 20%
+@snap[north text-white span-100]
+@size[1.5em](Copyrights)
+@snapend
 <br>
 @size[3em](&copy;)
 <br><br>
@@ -27,4 +30,4 @@
 @snap[south span-100]
 [The Original StackScript](https://www.linode.com/stackscripts/view/1)
 <br>
-<img src="template/img/stackscript.png" alt="drawing" width="600"/>
+<img src="template/img/stackscript.png" alt="drawing" width="500"/>
