@@ -18,8 +18,17 @@ Trademarks, Copyrights,<br>*and YOU*
 <br><br>
 
 ---
-# What is "abuse"?
+@snap[north]
+What is "abuse"?
+@snapend
 
+@snap[west list-content-verbose span-100]
+@ul[list-bullets-circles]
+- Emails sent to abuse@linode.com
+- One Hero Supportian holds "abuse"
+- Responds to reports of ToS violations
+@ulend
+@snapend
 
 ---?include=template/md/trademarks/PITCHME.md
 
