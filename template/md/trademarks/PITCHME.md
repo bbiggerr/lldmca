@@ -2,7 +2,7 @@
 
 ## @color[black](Trademarks)
 <br>
-##&reg;   &trade;
+## @color[black](&reg;&nbsp;&nbsp;&nbsp;&trade;)
 <br>
 @fa[arrow-down text-black]
 
