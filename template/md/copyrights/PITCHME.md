@@ -1,4 +1,4 @@
-## @color[black](Copyrights)
+## @color[black](COPYRIGHTS)
 <br>
 &copy;
 <br>
@@ -12,18 +12,18 @@ What are they?
 
 @snap[list-content-concise span-100]
 @ol
-- Protection of tangible works
-- Established by the US Constitution
-- Avoid market confusion
-- Protect reputation
+- Protection of "tangible works"
+- Established by Section 8 the US Constitution / Copyright Act of 1976
+- Applies to
+
 @olend
 <br><br>
 @snapend
 
 +++
 
-@snap[north-west text-black]
-@size[2em](1. Names)
+@snap[north text-black]
+@size[2em](Tangible Works)
 @snapend
 
 - Nike

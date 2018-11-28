@@ -1,6 +1,6 @@
 @title[Trademarks]
 
-## @color[black](Trademarks)
+## @color[black](TRADEMARKS)
 <br>
 @size[3em](&reg;)
 <br>
@@ -42,7 +42,6 @@ Linode
 <img src="template/img/mcdonalds.png" alt="drawing" width="200"/>
 <img src="template/img/linode.png" alt="drawing" width="200"/>
 
-+++
 +++?image=template/img/bg/green.jpg&position=top&size=100% 20%
 @snap[north text-white span-100]
 @size[1.5em](Slogans)
@@ -68,12 +67,12 @@ Infrastructure for innovation
 @size[1.5em](Abuse)
 @snapend
 
-snap[list-content-concise span-100]
+@snap[list-content-concise span-100]
 @ol
-1. Verify
-1. Pass on to the customer
-1. Follow timeframes - set stales!
-1. If in doubt, escalate to Trust & Safety
+- Verify
+- Pass on to the customer
+- Follow timeframes - set stales!
+- If in doubt, escalate to Trust & Safety
 @olend
 @snapend
 
